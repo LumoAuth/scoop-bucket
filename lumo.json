@@ -1,0 +1,22 @@
+{
+    "version": "1.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/LumoAuth/cli/releases/download/v1.1.0/lumo_Windows_i386.zip",
+            "bin": [
+                "lumo.exe"
+            ],
+            "hash": "f0247358c1af81913c1a648de64b646b818ce6c66cbbb7dc7226ab297ec6b0b1"
+        },
+        "64bit": {
+            "url": "https://github.com/LumoAuth/cli/releases/download/v1.1.0/lumo_Windows_x86_64.zip",
+            "bin": [
+                "lumo.exe"
+            ],
+            "hash": "a3a76ff3246a1b5d6dea970a9e5b66ef30ee71bacfce3de53953ce2329e8000e"
+        }
+    },
+    "homepage": "https://lumoauth.dev",
+    "license": "MIT",
+    "description": "LumoAuth CLI — manage your organization's identity infrastructure"
+}
