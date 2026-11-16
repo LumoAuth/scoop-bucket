@@ -6,14 +6,14 @@
             "bin": [
                 "lumo.exe"
             ],
-            "hash": "a5acee6e10fddcdc4cf8c80455677734529b54cc349d9f44153e78e9aee01c89"
+            "hash": "6871bf3b1a9c556ae7317cef15843cb4a6d85f1163c473a5e1090b6189a1bb70"
         },
         "64bit": {
             "url": "https://github.com/LumoAuth/cli/releases/download/v1.2.0/lumo_Windows_x86_64.zip",
             "bin": [
                 "lumo.exe"
             ],
-            "hash": "8f8b33ad77b06dd8a42b299fc06b898812398215e0daca2c80ac6945a0a4630f"
+            "hash": "affcfa776dbe950f6aa8c931ff52d4c1de75f1a559906bd48618c5b717625dbb"
         }
     },
     "homepage": "https://lumoauth.dev",
