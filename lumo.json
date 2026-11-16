@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/LumoAuth/cli/releases/download/v1.1.0/lumo_Windows_i386.zip",
+            "url": "https://github.com/LumoAuth/cli/releases/download/v1.2.0/lumo_Windows_i386.zip",
             "bin": [
                 "lumo.exe"
             ],
-            "hash": "f0247358c1af81913c1a648de64b646b818ce6c66cbbb7dc7226ab297ec6b0b1"
+            "hash": "a5acee6e10fddcdc4cf8c80455677734529b54cc349d9f44153e78e9aee01c89"
         },
         "64bit": {
-            "url": "https://github.com/LumoAuth/cli/releases/download/v1.1.0/lumo_Windows_x86_64.zip",
+            "url": "https://github.com/LumoAuth/cli/releases/download/v1.2.0/lumo_Windows_x86_64.zip",
             "bin": [
                 "lumo.exe"
             ],
-            "hash": "a3a76ff3246a1b5d6dea970a9e5b66ef30ee71bacfce3de53953ce2329e8000e"
+            "hash": "8f8b33ad77b06dd8a42b299fc06b898812398215e0daca2c80ac6945a0a4630f"
         }
     },
     "homepage": "https://lumoauth.dev",
